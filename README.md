@@ -1,2 +1,2 @@
 # BusinessPortfolioWebsite
-Developed in ASP.NET/ Bootstrap
+Developed in HTML / Bootstrap
